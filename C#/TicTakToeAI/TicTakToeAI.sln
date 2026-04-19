@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTakToeAI", "TicTakToeAI\TicTakToeAI.csproj", "{710DA9E1-E6F8-4DD0-8ED6-D4363A783ED9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9C60C147-2809-4AFD-AD75-5FA6573C21DE}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{710DA9E1-E6F8-4DD0-8ED6-D4363A783ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710DA9E1-E6F8-4DD0-8ED6-D4363A783ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710DA9E1-E6F8-4DD0-8ED6-D4363A783ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710DA9E1-E6F8-4DD0-8ED6-D4363A783ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

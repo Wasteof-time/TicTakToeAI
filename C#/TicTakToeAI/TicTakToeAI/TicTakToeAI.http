@@ -1,0 +1,11 @@
+@TicTakToeAI_HostAddress = http://localhost:5194
+
+GET {{TicTakToeAI_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{TicTakToeAI_HostAddress}}/todos/1
+Accept: application/json
+
+###

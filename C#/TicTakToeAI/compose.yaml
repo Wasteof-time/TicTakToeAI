@@ -1,0 +1,7 @@
+﻿services:
+  tictaktoeai:
+    image: tictaktoeai
+    build:
+      context: .
+      dockerfile: TicTakToeAI/Dockerfile
+
